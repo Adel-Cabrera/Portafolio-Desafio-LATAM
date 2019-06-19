@@ -56,12 +56,12 @@ li a {
 
 hr {
   border: 1px solid red;
-  width: 20%
+  width: 20%;
 }
 
 hr.hrw {
   border: 1px solid white;
-  width: 20%
+  width: 20%;
 }
 
 .hero {
